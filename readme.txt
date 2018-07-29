@@ -1,3 +1,3 @@
 Git is a version control system.
 Git is free software.
-hahaha
+My name is Jack and my girlfriend is Rose.
